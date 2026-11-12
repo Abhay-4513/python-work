@@ -1,0 +1,4 @@
+Donkey is an Animal 
+Donkey is used to carry the loads.
+Donkey is slow as compared to horse.
+Donkey can be male or female
