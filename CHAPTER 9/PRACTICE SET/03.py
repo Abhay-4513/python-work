@@ -6,7 +6,7 @@ def table(n):
         a += f"{n} X {i} = {n*i}\n"
 
     # Open the file in append mode
-    f = open(f"PRACTICE SET/multiplication-folder/table_{n}.txt", "w")
+    f = open(f"CHAPTER 9/PRACTICE SET/multiplication-folder/table_{n}.txt", "w")
     f.write(a)
     f.close()
 
